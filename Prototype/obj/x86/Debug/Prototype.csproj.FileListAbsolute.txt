@@ -1,0 +1,5 @@
+/Users/joannlee/Projects/Prototype/Prototype/bin/Debug/Prototype.exe
+/Users/joannlee/Projects/Prototype/Prototype/bin/Debug/Prototype.pdb
+/Users/joannlee/Projects/Prototype/Prototype/obj/x86/Debug/Prototype.csproj.CoreCompileInputs.cache
+/Users/joannlee/Projects/Prototype/Prototype/obj/x86/Debug/Prototype.exe
+/Users/joannlee/Projects/Prototype/Prototype/obj/x86/Debug/Prototype.pdb
